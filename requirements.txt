@@ -1,0 +1,13 @@
+
+
+# Requirements
+os
+sys
+time
+random
+string
+numpy==1.19.2
+pandas==1.1.2
+matplotlib==3.3.2
+scikit-learn==0.23.2
+tkinter==8.6
